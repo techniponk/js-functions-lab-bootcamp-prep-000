@@ -3,7 +3,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  return "Happy holidays, ${name}!"
+  return console.log ("Happy holidays, ${name}!")
 }
 
 function happyHolidayTo(holiday, name) {
